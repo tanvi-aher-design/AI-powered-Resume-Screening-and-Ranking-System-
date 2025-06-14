@@ -7,3 +7,4 @@ PyPDF2 (PDF text extraction)
 Scikit-learn (TF-IDF vectorization, cosine similarity)
 Pandas (data processing).
 Author-Tanvi Aher
+<br>
